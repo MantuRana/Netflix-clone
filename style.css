@@ -55,7 +55,7 @@ p{
     /* width: 120%; */
     height: 100vh;
     /* position: relative; */
-    background: url("/images/1.jpg");
+    background: url("1.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
